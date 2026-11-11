@@ -98,7 +98,7 @@ Some of the concepts I worked with while building this project:
 
 ### 1. Header Extraction and Processing
 
-![Header Extraction Code](images/codesinppet1.png)
+![Header Extraction Code](images/codesnippet1.png)
 
 ---
 
@@ -126,7 +126,7 @@ The program processes the input file through all four stages and generates the f
 
 ### 1. Input Source File
 
-![Original Input Code](images/imput.png)
+![Original Input Code](images/input.png)
 
 ### 2. Preprocessed Output
 
